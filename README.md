@@ -39,3 +39,8 @@ The model performance is evaluated using regression metrics such as:
 - Mean Absolute Error (MAE)  
 - Mean Squared Error (MSE)  
 - Root Mean Squared Error (RMSE)  
+
+## Key Insights
+- Advertising spend shows a measurable relationship with sales.
+- Linear Regression provides a strong baseline for sales prediction.
+- Proper EDA and feature understanding significantly improve model reliability.
